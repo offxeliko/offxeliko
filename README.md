@@ -20,12 +20,10 @@
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/svelte-1a1410?style=for-the-badge&logo=svelte" alt="Svelte" /></a>
   <a href="https://tauri.app"><img src="https://img.shields.io/badge/tauri-181a22?style=for-the-badge&logo=tauri" alt="Tauri" /></a>
   <a href="https://vite.dev"><img src="https://img.shields.io/badge/vite-1a1528?style=for-the-badge&logo=vite" alt="Vite" /></a>
-  <br/>
   <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/tailwindcss-152022?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" /></a>
   <a href="https://motion.dev"><img src="https://img.shields.io/badge/framer_motion-1a1418?style=for-the-badge&logo=framer" alt="Framer Motion" /></a>
   <a href="https://tanstack.com"><img src="https://img.shields.io/badge/tanstack-1a1414?style=for-the-badge&logo=reactquery" alt="TanStack" /></a>
   <a href="https://zod.dev"><img src="https://img.shields.io/badge/zod-161e2a?style=for-the-badge&logo=zod" alt="Zod" /></a>
-  <br/>
   <a href="https://gofiber.io"><img src="https://img.shields.io/badge/fiber-16221c?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Fiber" /></a>
   <a href="https://authjs.dev"><img src="https://img.shields.io/badge/next_auth-17202a?style=for-the-badge&logo=auth0" alt="NextAuth" /></a>
   <a href="https://discord.js.org"><img src="https://img.shields.io/badge/discord.js-161b2a?style=for-the-badge&logo=discord" alt="Discord.js" /></a>
