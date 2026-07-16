@@ -1,5 +1,13 @@
-## Languages & platforms
-> The core programming languages and platforms I use to build architecture and write business logic.
+<h1 align="left">Hi, I'm Xeliko 👋</h1>
+
+Full-stack developer working across web, backend, and cloud infrastructure. I like typed languages, clean APIs, and shipping things that don't fall over. My day-to-day spans building UIs with React and Vue, writing backend services in Go and Python, and designing data models that hold up under real load. Lately most of my time goes into analytics and data pipelines — pulling large volumes of data, structuring it, and turning it into something a bot can actually use in real time.
+
+### About me
+- 🏢 Currently working on a powerful analytics engine for a bot.
+- 🌱 Learning ClickHouse for real-time analytics at scale.
+- 💭 Ask me about bot analytics, backend architecture, data pipelines.
+
+### Languages & platforms
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
@@ -12,8 +20,7 @@
   <a href="https://graphql.org"><img src="https://img.shields.io/badge/graphql-161B22?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" /></a>
 </p>
 
-## Frameworks & Libraries
-> Tools for creating interactive user interfaces, server-side logic, and microservices.
+### Frameworks & libraries
 
 <p align="left">
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue.js-161B22?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" /></a>
@@ -34,8 +41,7 @@
   <a href="https://biomejs.dev"><img src="https://img.shields.io/badge/biome-161B22?style=for-the-badge&logo=biome&logoColor=60A5FA" alt="Biome" /></a>
 </p>
 
-## Databases, ORM & Cloud
-> Database design, reliable data storage, deployment, and cloud technologies.
+### Databases, ORM & cloud
 
 <p align="left">
   <a href="https://postgresql.org"><img src="https://img.shields.io/badge/postgresql-161B22?style=for-the-badge&logo=postgresql&logoColor=4FA3FF" alt="PostgreSQL" /></a>
@@ -49,8 +55,7 @@
   <a href="https://cloudflare.com/"><img src="https://img.shields.io/badge/cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" /></a>
 </p>
 
-## OS & Software
-> My daily arsenal of operating systems and software for a comfortable and productive workflow.
+### OS & software
 
 <p align="left">
   <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" /></a>
