@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Xeliko 👋</h1>
 
-Full-stack developer working across web, backend, and cloud infrastructure. I like typed languages, clean APIs, and shipping things that don't fall over. My day-to-day spans React/Vue on the frontend and Go/Python on the backend. Lately most of my time goes into analytics and data pipelines — turning large volumes of data into something a bot can use in real time.
+Full-stack developer building products end to end — from Discord bots to production web apps. I like strict typing, clean architecture, and deploys that just work. My stack is TypeScript across the board: Nuxt/Vue on the frontend, Node.js + Prisma on the backend, all running on my own Linux infrastructure.
 
 ### About me
-- 🏢 Currently working on a powerful analytics engine for a bot.
-- 🌱 Learning ClickHouse for real-time analytics at scale.
-- 💭 Ask me about bot analytics, backend architecture, data pipelines.
+- 🏢 Currently working on [Nexolia](https://nexolia.app) — a web platform with a real-time dashboard and Discord integrations.
+- 🌱 Leveling up in production reliability — monitoring, alerting, and zero-downtime deploys with pm2.
+- 💭 Ask me about Discord bots, TypeScript, Nuxt, or self-hosting on a VPS.
 
 ### Languages & platforms
 
